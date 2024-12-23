@@ -1,5 +1,3 @@
-
-
 # Hello World!, I'm Nhat Vu, and I'm a CS student from DLSL 👋🏼:
 
 # 💻 Tech Stack:
