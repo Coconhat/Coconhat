@@ -1,4 +1,4 @@
-<img src="banner2.png" alt="Banner" width="100%" style="margin: 0; padding: 0;" />
+<img src="banner.png" alt="Banner" width="100%" style="margin: 0; padding: 0;" />
 
 # Hello World!, I'm Nhat Vu, and I'm a CS student from DLSL👋🏼:
 
