@@ -4,7 +4,7 @@
 
 ## 🌐 Portfolio:
 
-[Visit my website](https:/nhatvu.life)
+[Visit my website](https://www.nhatvu.life/)
 
 # 💻 Tech Stack:
 
