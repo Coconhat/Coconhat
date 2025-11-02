@@ -1,14 +1,12 @@
 <img src="banner.png" alt="Banner" width="100%" style="margin: 0; padding: 0;" />
 
-# Hello World!, I'm Nhat Vu, and I'm a CS student from DLSL👋🏼:
+# 👋🏼 Hello World! I'm Nhat Vu  
+### 💻 Computer Science Student @ De La Salle Lipa (DLSL)
 
-## 🌐 Portfolio:
-
-[Visit my website](https://www.nhatvu.life/)
+## 🌐 Portfolio  
+🔗 [**Visit my website → nhatvu.life**](https://www.nhatvu.life/)
 
 # 💻 Tech Stack:
-
-## 🚀 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
