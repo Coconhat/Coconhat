@@ -3,7 +3,7 @@
 # 👋🏼 Hello World! I'm Nhat Vu  
 ### 💻 Computer Science Student @ De La Salle Lipa (DLSL)
 
-## 🌐 Portfolio [nhatvu.vercel.app](https://www.nhatvu.vercel.app/)
+## 🌐 Portfolio [[nhatvu.vercel.app](https://www.nhatvu.vercel.app/)](https://nhatvu.vercel.app/)
 
 # 💻 Tech Stack:
 
