@@ -1,8 +1,11 @@
 <img src="banner.png" alt="Banner" width="100%" style="margin: 0; padding: 0;" />
 
 # 👋🏼 Hello World! I'm Nhat Vu  
-### 💻 Computer Science Student @ De La Salle Lipa (DLSL)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coconhat/Coconhat/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Coconhat/Coconhat/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Coconhat/Coconhat/output/github-snake.svg" />
+</picture>
 ## 🌐 Portfolio ([https://nhatvu.vercel.app](https://nhatvule.netlify.app/))
 
 # 💻 Tech Stack:
@@ -29,8 +32,4 @@
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coconhat/Coconhat/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Coconhat/Coconhat/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Coconhat/Coconhat/output/github-snake.svg" />
-</picture>
+
